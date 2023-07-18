@@ -1,0 +1,12 @@
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\bin\Debug\net7.0\DelegateDemo.deps.json
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\bin\Debug\net7.0\DelegateDemo.dll
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\bin\Debug\net7.0\DelegateDemo.pdb
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.dll
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\refint\DelegateDemo.dll
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\DelegateDemo.pdb
+C:\Users\IET\dotnetPractice\Day6\DelegateDemo\obj\Debug\net7.0\ref\DelegateDemo.dll
