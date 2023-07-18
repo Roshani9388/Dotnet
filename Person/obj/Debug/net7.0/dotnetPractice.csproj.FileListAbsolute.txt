@@ -1,0 +1,15 @@
+C:\Users\IET\dotnetPractice\bin\Debug\net7.0\dotnetPractice.exe
+C:\Users\IET\dotnetPractice\bin\Debug\net7.0\dotnetPractice.deps.json
+C:\Users\IET\dotnetPractice\bin\Debug\net7.0\dotnetPractice.runtimeconfig.json
+C:\Users\IET\dotnetPractice\bin\Debug\net7.0\dotnetPractice.dll
+C:\Users\IET\dotnetPractice\bin\Debug\net7.0\dotnetPractice.pdb
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.csproj.AssemblyReference.cache
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.AssemblyInfoInputs.cache
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.AssemblyInfo.cs
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.csproj.CoreCompileInputs.cache
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.dll
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\refint\dotnetPractice.dll
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.pdb
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\dotnetPractice.genruntimeconfig.cache
+C:\Users\IET\dotnetPractice\obj\Debug\net7.0\ref\dotnetPractice.dll
